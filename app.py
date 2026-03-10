@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from models import User, UserAge, Feedback
 
-user = User(name="Иван Сидоренко", id=1)
+user = User(name "Лавров Максим Огузович", id=1)
 
 application = FastAPI()
 
